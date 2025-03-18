@@ -1,0 +1,2002 @@
+[
+    {
+        "video": "Visual_Reference/02_0280_man_19_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.74,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Bicycle B. Conical C. Electric scooter D. Car\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Conical"
+    },
+    {
+        "video": "Visual_Reference/02_0455_woman_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.7,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. A toy B. Angel figurine C. Salt D. Metal detector\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A toy"
+    },
+    {
+        "video": "Visual_Reference/02_0461_woman_19_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.44,
+        "proactive": false,
+        "questions": "What is this? A. Fan B. Billboard C. Time clock machine D. Rail\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Fan"
+    },
+    {
+        "video": "Visual_Reference/02_0465_woman_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.48,
+        "proactive": false,
+        "questions": "Hey, what's that? A. A comb B. Charger C. Cosmetic bag D. Cushion\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A comb"
+    },
+    {
+        "video": "Visual_Reference/02_0429_man_26_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.32,
+        "proactive": false,
+        "questions": "What is that? A. White vase B. Buddha head ornament C. Glasses D. Carton\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Buddha head ornament"
+    },
+    {
+        "video": "Visual_Reference/02_0450_man_18_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.28,
+        "proactive": false,
+        "questions": "What is this? A. A cup B. Electric wire C. Scouring pad D. Cardboard box\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A cup"
+    },
+    {
+        "video": "Visual_Reference/02_0495_man_20_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.4,
+        "proactive": false,
+        "questions": "What is this? A. Mobile phone B. Chair C. Desk D. Paper\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Chair"
+    },
+    {
+        "video": "Visual_Reference/02_0288_man_19_shandong_14.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "What is this thing? A. Table B. Chair C. Water cup D. Wet wipes\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Wet wipes"
+    },
+    {
+        "video": "Visual_Reference/02_0276_man_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Mosquito repellent B. Hairpin C. Effervescent tablet D. Conch shell\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Mosquito repellent"
+    },
+    {
+        "video": "Visual_Reference/02_0441_man_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.72,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Window B. Railing C. Plastic bag D. Jar\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Jar"
+    },
+    {
+        "video": "Visual_Reference/02_0453_woman_19_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Computer monitor B. Drum C. It\u2019s a baseball bat D. Headphones\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "It\u2019s a baseball bat"
+    },
+    {
+        "video": "Visual_Reference/02_0284_man_19_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.56,
+        "proactive": false,
+        "questions": "What is this thing? A. Broom B. Dustpan C. Mop D. Pipe\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Broom"
+    },
+    {
+        "video": "Visual_Reference/02_0429_man_26_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.72,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Glasses B. Carton C. White glasses case D. Black stand\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Glasses"
+    },
+    {
+        "video": "Visual_Reference/02_0420_man_21_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.64,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Car B. Tree C. Bicycle D. Backpack\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Backpack"
+    },
+    {
+        "video": "Visual_Reference/02_0415_man_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.46,
+        "proactive": false,
+        "questions": "Hey, what is that? A. A cardboard box B. Mouse C. Keyboard D. Table\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A cardboard box"
+    },
+    {
+        "video": "Visual_Reference/02_0476_woman_21_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.52,
+        "proactive": false,
+        "questions": "What is that over there? A. Fill light B. Cosmetics C. Paper D. Table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Cosmetics"
+    },
+    {
+        "video": "Visual_Reference/02_0446_woman_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.3,
+        "proactive": false,
+        "questions": "What is that? A. Computer monitor B. Table C. Chair D. Fly swatter\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Fly swatter"
+    },
+    {
+        "video": "Visual_Reference/02_0283_man_18_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "What is this thing? A. Pen B. A water cup C. Chair D. Table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A water cup"
+    },
+    {
+        "video": "Visual_Reference/02_0278_man_18_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.3600000000000003,
+        "proactive": false,
+        "questions": "What is that? A. A mop B. Brush C. Faucet D. Bucket\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A mop"
+    },
+    {
+        "video": "Visual_Reference/02_0288_man_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.22,
+        "proactive": false,
+        "questions": "What is that? A. Chalk B. Sprinkler C. Table D. Paper\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Paper"
+    },
+    {
+        "video": "Visual_Reference/02_0450_man_18_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.84,
+        "proactive": false,
+        "questions": "Could you explain what this is? A. Clip B. Fan C. Scouring pad D. Calculator\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Scouring pad"
+    },
+    {
+        "video": "Visual_Reference/02_0416_man_20_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. stone B. tree C. Warning sign D. window\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Warning sign"
+    },
+    {
+        "video": "Visual_Reference/02_0486_woman_19_shandong_19.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.5,
+        "proactive": false,
+        "questions": "Hey, what is this? A. A paper clip B. A pen C. A pencil sharpener D. A glue stick\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A pen"
+    },
+    {
+        "video": "Visual_Reference/02_0277_man_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.56,
+        "proactive": false,
+        "questions": "What is that over there? A. Disposable cup B. Window C. A calculator D. White vase\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A calculator"
+    },
+    {
+        "video": "Visual_Reference/02_0437_woman_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "What's that over there? A. Table B. Red tape C. Hand cream D. Black headband\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Hand cream"
+    },
+    {
+        "video": "Visual_Reference/02_0436_woman_22_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "What is this thing? A. Broom B. Dustpan C. Tape D. Spatula\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Spatula"
+    },
+    {
+        "video": "Visual_Reference/02_0483_man_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.46,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Table B. Maintenance manual C. Stapler D. A toy\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "A toy"
+    },
+    {
+        "video": "Visual_Reference/02_0495_man_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 3.62,
+        "proactive": false,
+        "questions": "Hey, what is that? A. A cup B. Fresh-keeping box C. Label D. Shelf\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A cup"
+    },
+    {
+        "video": "Visual_Reference/02_0443_woman_19_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Phone Holder B. Keyboard C. Teapot D. Card\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Card"
+    },
+    {
+        "video": "Visual_Reference/02_0416_man_20_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.54,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Bicycle bag B. Bicycle seat C. Bicycle tire D. Bicycle bell\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Bicycle bag"
+    },
+    {
+        "video": "Visual_Reference/02_0492_man_20_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.5,
+        "proactive": false,
+        "questions": "What is that thing? A. A comb B. Hand cream C. Bench D. Headphones\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A comb"
+    },
+    {
+        "video": "Visual_Reference/02_0451_man_18_shandong_1.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is this? A. Headphones B. Table C. Mobile phone D. Paper\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Headphones"
+    },
+    {
+        "video": "Visual_Reference/02_0348_woman_18_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.62,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Radiator B. Handheld mirror C. It's a mirror D. Paper\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "It's a mirror"
+    },
+    {
+        "video": "Visual_Reference/02_0432_man_19_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.68,
+        "proactive": false,
+        "questions": "What exactly is this? A. Watering can B. Coffee cup lid C. Bucket D. Sofa\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Bucket"
+    },
+    {
+        "video": "Visual_Reference/02_0452_woman_19_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.38,
+        "proactive": false,
+        "questions": "What is this? A. Flute B. Headphones C. Cotton swab D. Thread\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Cotton swab"
+    },
+    {
+        "video": "Visual_Reference/02_0430_woman_39_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.16,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Incense burner ornament B. Storage bin C. Puppet decoration D. Plastic bag\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Incense burner ornament"
+    },
+    {
+        "video": "Visual_Reference/02_0284_man_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is that? A. Tree B. Car C. A necklace D. Bicycle\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A necklace"
+    },
+    {
+        "video": "Visual_Reference/02_0273_man_18_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is this? A. Railing B. Thermos C. Window D. Water cup\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Thermos"
+    },
+    {
+        "video": "Visual_Reference/02_0286_man_19_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.76,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Book B. Notebook C. A piece of paper D. Table\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A piece of paper"
+    },
+    {
+        "video": "Visual_Reference/02_0428_man_18_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.32,
+        "proactive": false,
+        "questions": "What is that? A. Shelf B. Hand-tuned eight-tone xylophone C. Gloves D. Plastic bag\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Hand-tuned eight-tone xylophone"
+    },
+    {
+        "video": "Visual_Reference/02_0282_man_17_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.62,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Power strip B. Notebook C. Book D. Toilet paper\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Toilet paper"
+    },
+    {
+        "video": "Visual_Reference/02_0428_man_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "What's that over there? A. Handbell drum B. Tripod C. Data cable D. Pink tiger toy\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Handbell drum"
+    },
+    {
+        "video": "Visual_Reference/02_0428_man_18_shandong_14.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.8,
+        "proactive": false,
+        "questions": "What is this thing? A. A pillow B. A wooden picture frame C. A cardboard box D. A book\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "A book"
+    },
+    {
+        "video": "Visual_Reference/02_0485_woman_20_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.62,
+        "proactive": false,
+        "questions": "What on earth is this? A. Table B. Disinfectant C. Huoxiang Zhengqi Liquid D. Ceramics\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Ceramics"
+    },
+    {
+        "video": "Visual_Reference/02_0485_woman_20_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.66,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Brush B. Box C. Cotton swab D. Flute\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Brush"
+    },
+    {
+        "video": "Visual_Reference/02_0427_man_18_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.4,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Kettle B. Cardboard box C. Steel pipe D. Plastic storage box\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Kettle"
+    },
+    {
+        "video": "Visual_Reference/02_0286_man_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.38,
+        "proactive": false,
+        "questions": "What is that? A. Pen B. Table C. Nail clippers D. Paper\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Nail clippers"
+    },
+    {
+        "video": "Visual_Reference/02_0483_man_20_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.44,
+        "proactive": false,
+        "questions": "What is this thing? A. Stapler B. Maintenance manual C. Table D. A toy\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "A toy"
+    },
+    {
+        "video": "Visual_Reference/02_0465_woman_20_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Clock B. Mirror C. Wall socket D. Fill light\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Fill light"
+    },
+    {
+        "video": "Visual_Reference/02_0475_woman_20_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.64,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Clip B. Sofa chair C. Door D. Mop\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Clip"
+    },
+    {
+        "video": "Visual_Reference/02_0446_woman_19_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.68,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Curtain B. Window C. Table D. Car\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Curtain"
+    },
+    {
+        "video": "Visual_Reference/02_0445_man_20_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.72,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Seasoning packet B. Table C. Box D. Mouse\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Seasoning packet"
+    },
+    {
+        "video": "Visual_Reference/02_0456_woman_18_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.5,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Traffic cone B. Tree trunk C. Bicycle D. Car\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Tree trunk"
+    },
+    {
+        "video": "Visual_Reference/02_0483_man_20_shandong_17.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.04,
+        "proactive": false,
+        "questions": "Is this something special? A. Wooden board B. Teapot C. Table D. Tambourine\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Wooden board"
+    },
+    {
+        "video": "Visual_Reference/02_0485_woman_20_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is that? A. Cotton swab B. Flute C. Box D. Plastic bottle\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Plastic bottle"
+    },
+    {
+        "video": "Visual_Reference/02_0428_man_18_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.7,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Minion Doll B. Headband C. Book D. Carton\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Headband"
+    },
+    {
+        "video": "Visual_Reference/02_0277_man_18_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.76,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Junction box B. Paper C. Wall socket D. Telephone\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Paper"
+    },
+    {
+        "video": "Visual_Reference/02_0423_woman_20_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.48,
+        "proactive": false,
+        "questions": "What is that thing? A. Ladder B. Sliding door sticker C. Table D. Cart\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Sliding door sticker"
+    },
+    {
+        "video": "Visual_Reference/02_0452_woman_19_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.48,
+        "proactive": false,
+        "questions": "What is that thing? A. Flute B. Cotton swab C. Table D. Headphones\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Flute"
+    },
+    {
+        "video": "Visual_Reference/02_0426_woman_19_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.7,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Keyboard B. Table C. A hat D. Computer monitor\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A hat"
+    },
+    {
+        "video": "Visual_Reference/02_0427_man_18_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.6,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Table B. Transparent storage box C. Black support D. Mosquito coil tray\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Mosquito coil tray"
+    },
+    {
+        "video": "Visual_Reference/02_0272_woman_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.78,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. A sign B. A door C. A window D. A railing\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A door"
+    },
+    {
+        "video": "Visual_Reference/02_0483_man_20_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is that? A. Bag B. Power strip C. Stapler D. Printer\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Bag"
+    },
+    {
+        "video": "Visual_Reference/02_0482_man_18_hebei_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.5,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Cardboard box B. Computer monitor C. Cabinet D. Easel\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Easel"
+    },
+    {
+        "video": "Visual_Reference/02_0414_man_19_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.46,
+        "proactive": false,
+        "questions": "What is that thing? A. Car B. Electric Tricycle C. Cone D. Glove\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Glove"
+    },
+    {
+        "video": "Visual_Reference/02_0433_woman_18_shandong_20.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.84,
+        "proactive": false,
+        "questions": "This looks interesting, what is it? A. Wet wipes B. Table C. Backpack D. Doll\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Wet wipes"
+    },
+    {
+        "video": "Visual_Reference/02_0415_man_20_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.32,
+        "proactive": false,
+        "questions": "What is this? A. Road cone B. Car C. A drink bottle D. Warning sign\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A drink bottle"
+    },
+    {
+        "video": "Visual_Reference/02_0438_man_17_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.8,
+        "proactive": false,
+        "questions": "What is that over there? A. Sofa B. A clip C. Backpack D. Coffee table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A clip"
+    },
+    {
+        "video": "Visual_Reference/02_0457_man_19_shandong_14.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.44,
+        "proactive": false,
+        "questions": "What is this thing? A. Plastic bag B. Watch C. Peppa Pig toy D. Tape\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Plastic bag"
+    },
+    {
+        "video": "Visual_Reference/02_0472_man_20_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.66,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Shoes B. A mouse C. A book D. A keyboard\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A book"
+    },
+    {
+        "video": "Visual_Reference/02_0495_man_20_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.38,
+        "proactive": false,
+        "questions": "What is this? A. Shelf B. Sticker C. Toothpaste D. Label\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Toothpaste"
+    },
+    {
+        "video": "Visual_Reference/02_0418_woman_20_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.7,
+        "proactive": false,
+        "questions": "Could you explain what this is? A. Water cup B. Book C. Mouse D. Keyboard\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Book"
+    },
+    {
+        "video": "Visual_Reference/02_0443_woman_19_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.46,
+        "proactive": false,
+        "questions": "What is this? A. Keyboard B. A box C. Table D. Yellow phone holder\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A box"
+    },
+    {
+        "video": "Visual_Reference/02_0348_woman_18_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.54,
+        "proactive": false,
+        "questions": "What is this? A. Remote control B. Cup C. Heater D. Window\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Heater"
+    },
+    {
+        "video": "Visual_Reference/02_0436_woman_22_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.66,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Switch socket panel B. Pink gift bag C. Door D. Certificate cover\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Switch socket panel"
+    },
+    {
+        "video": "Visual_Reference/02_0471_man_19_shandong_1.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is this? A. Mineral water B. Tree C. Air conditioning exterior unit D. Window\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Mineral water"
+    },
+    {
+        "video": "Visual_Reference/02_0439_woman_19_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.72,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Table B. Keyboard C. Electric wire D. Ornament\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Ornament"
+    },
+    {
+        "video": "Visual_Reference/02_0482_man_18_hebei_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.56,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Surveillance B. Cable organizer C. Chair D. Desk\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Cable organizer"
+    },
+    {
+        "video": "Visual_Reference/02_0464_woman_20_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.46,
+        "proactive": false,
+        "questions": "What's that over there? A. Pen B. A remote control C. Tag D. Chair\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A remote control"
+    },
+    {
+        "video": "Visual_Reference/02_0442_man_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "What is that over there? A. A traffic cone. B. A bicycle. C. A traffic sign. D. A car.\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A bicycle."
+    },
+    {
+        "video": "Visual_Reference/02_0453_woman_19_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.4,
+        "proactive": false,
+        "questions": "What is this? A. Headphones B. Mask C. Artifact D. Drum\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Artifact"
+    },
+    {
+        "video": "Visual_Reference/02_0277_man_18_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.48,
+        "proactive": false,
+        "questions": "What is this thing? A. A metal box B. Curtains C. A window D. A disposable paper cup\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A metal box"
+    },
+    {
+        "video": "Visual_Reference/02_0279_man_20_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.48,
+        "proactive": false,
+        "questions": "What is this? A. Folder B. Huoxiang Zhengqi Shui C. White binding wire D. Hot melt glue stick\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Huoxiang Zhengqi Shui"
+    },
+    {
+        "video": "Visual_Reference/02_0484_man_19_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.76,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Receipt printer B. Electric wire C. Easel D. Carton box\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Receipt printer"
+    },
+    {
+        "video": "Visual_Reference/02_0426_woman_19_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.66,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Band-aid B. Stool C. Computer case D. Keyboard\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Band-aid"
+    },
+    {
+        "video": "Visual_Reference/02_0425_man_21_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.46,
+        "proactive": false,
+        "questions": "Do you know what this is? A. A steel nail B. Blue storage basket C. Cardboard box D. Red bucket\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A steel nail"
+    },
+    {
+        "video": "Visual_Reference/02_0283_man_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.44,
+        "proactive": false,
+        "questions": "What's that over there? A. Circuit breaker B. A chair C. Wall socket D. Mobile phone storage hanging bag\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A chair"
+    },
+    {
+        "video": "Visual_Reference/02_0472_man_20_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Pen B. Mouse pad C. Mouse D. Cup lid\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Cup lid"
+    },
+    {
+        "video": "Visual_Reference/02_0350_man_18_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Hook B. Podium C. Screw D. Desk\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Hook"
+    },
+    {
+        "video": "Visual_Reference/02_0289_man_18_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.54,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Circuit breaker B. Wall socket C. Stool D. Mobile phone hanging bag\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Circuit breaker"
+    },
+    {
+        "video": "Visual_Reference/02_0468_woman_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.32,
+        "proactive": false,
+        "questions": "What is that? A. A computer B. A clock C. A schoolbag D. A bottle of mineral water\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A computer"
+    },
+    {
+        "video": "Visual_Reference/02_0460_man_19_shandong_14.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.46,
+        "proactive": false,
+        "questions": "What is this thing? A. Hairband B. Tape C. Spray bottle D. Mineral water bottle\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Tape"
+    },
+    {
+        "video": "Visual_Reference/02_0283_man_18_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.48,
+        "proactive": false,
+        "questions": "What is that thing? A. Book B. Chalk C. A watering can D. Desk\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A watering can"
+    },
+    {
+        "video": "Visual_Reference/02_0435_man_20_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Bag B. Tape C. Battery D. Ornament\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Ornament"
+    },
+    {
+        "video": "Visual_Reference/02_0491_man_22_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.88,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Bench B. Earthenware Pot C. Toy D. Tambourine\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Toy"
+    },
+    {
+        "video": "Visual_Reference/02_0429_man_26_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.7,
+        "proactive": false,
+        "questions": "What is this exactly? A. File box B. Mouse C. Keyboard D. Computer monitor\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "File box"
+    },
+    {
+        "video": "Visual_Reference/02_0465_woman_20_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.5,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Power cord B. Remote control C. Black cabinet D. Console\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Console"
+    },
+    {
+        "video": "Visual_Reference/02_0439_woman_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.52,
+        "proactive": false,
+        "questions": "What's that over there? A. Red tape B. Watering can C. Cup D. Rattle\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Rattle"
+    },
+    {
+        "video": "Visual_Reference/02_0473_woman_18_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Paper B. Yellow power bank C. Pen D. Box\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Box"
+    },
+    {
+        "video": "Visual_Reference/02_0458_man_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.56,
+        "proactive": false,
+        "questions": "What is that over there? A. A swan ornament B. A black plastic bag C. A toy fish D. Blue tape\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A toy fish"
+    },
+    {
+        "video": "Visual_Reference/02_0273_man_18_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Thermos B. Cup C. Watering can D. Window\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Watering can"
+    },
+    {
+        "video": "Visual_Reference/02_0430_woman_39_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.72,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Water cup B. Box C. Red flag D. Basket\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Red flag"
+    },
+    {
+        "video": "Visual_Reference/02_0281_man_18_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.48,
+        "proactive": false,
+        "questions": "What is that thing? A. Clip B. Line C. Table D. Display\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Clip"
+    },
+    {
+        "video": "Visual_Reference/02_0431_man_19_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.68,
+        "proactive": false,
+        "questions": "What is this exactly? A. Bicycle B. Window C. Stone pier D. Paper\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Stone pier"
+    },
+    {
+        "video": "Visual_Reference/02_0437_woman_18_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.52,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Table B. Bucket C. Pink Box D. Huo Xiang Zheng Qi Mixture\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Huo Xiang Zheng Qi Mixture"
+    },
+    {
+        "video": "Visual_Reference/02_0481_man_20_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.92,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Table B. White paper C. Cotton swab D. Flute\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Cotton swab"
+    },
+    {
+        "video": "Visual_Reference/02_0427_man_18_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What's that? A. Chair B. Keyboard C. Table D. Sunglasses\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Sunglasses"
+    },
+    {
+        "video": "Visual_Reference/02_0282_man_17_shandong_2.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "What is this? A. An outlet B. A table C. A chair D. A phone\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "A phone"
+    },
+    {
+        "video": "Visual_Reference/02_0452_woman_19_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is this? A. Black headphones B. Table C. Flute D. Line\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Line"
+    },
+    {
+        "video": "Visual_Reference/02_0494_man_18_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.4,
+        "proactive": false,
+        "questions": "What is this thing? A. Mouse B. Backpack C. Mobile phone charger D. Computer monitor\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Backpack"
+    },
+    {
+        "video": "Visual_Reference/02_0285_man_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "What is that over there? A. Mouse pad B. Book C. Pen D. Desk\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Mouse pad"
+    },
+    {
+        "video": "Visual_Reference/02_0474_woman_20_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.6,
+        "proactive": false,
+        "questions": "What's that over there? A. Desk B. Blue Storage Basket C. Toy D. Computer Monitor\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Toy"
+    },
+    {
+        "video": "Visual_Reference/02_0465_woman_20_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.3199999999999998,
+        "proactive": false,
+        "questions": "What is that? A. Chair B. Table C. Cushion D. Shelf\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Cushion"
+    },
+    {
+        "video": "Visual_Reference/02_0433_woman_18_shandong_19.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.54,
+        "proactive": false,
+        "questions": "Hey, what is this? A. Table B. Doll C. Capsule power bank D. Black backpack\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Capsule power bank"
+    },
+    {
+        "video": "Visual_Reference/02_0289_man_18_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "What is this exactly? A. Steel wool B. Cabinet C. Plastic bottle D. Spray bottle\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Steel wool"
+    },
+    {
+        "video": "Visual_Reference/02_0473_woman_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.74,
+        "proactive": false,
+        "questions": "What is that over there? A. Scissors B. Cup C. Chair D. Mouse\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Scissors"
+    },
+    {
+        "video": "Visual_Reference/02_0460_man_19_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.78,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Mineral water bottle B. Tape C. Sofa D. Watering can\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Watering can"
+    },
+    {
+        "video": "Visual_Reference/02_0274_woman_18_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.44,
+        "proactive": false,
+        "questions": "What is that thing? A. Plastic bag B. Railings C. Window D. Key\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Key"
+    },
+    {
+        "video": "Visual_Reference/02_0460_man_19_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.74,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. A decoration. B. Tape C. Watering can D. Mask\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A decoration."
+    },
+    {
+        "video": "Visual_Reference/02_0273_man_18_shandong_2.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.4,
+        "proactive": false,
+        "questions": "What is this? A. Plastic bucket B. Thermos C. Guardrail D. Tripod\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Plastic bucket"
+    },
+    {
+        "video": "Visual_Reference/02_0427_man_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.66,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Bracket B. Glasses C. Electric wire D. Table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Glasses"
+    },
+    {
+        "video": "Visual_Reference/02_0439_woman_19_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.58,
+        "proactive": false,
+        "questions": "What is this thing? A. Black power cord B. Pendant C. Table D. Keyboard\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Pendant"
+    },
+    {
+        "video": "Visual_Reference/02_0282_man_17_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is this? A. Chair B. Aluminum can C. Table D. Backpack\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Aluminum can"
+    },
+    {
+        "video": "Visual_Reference/02_0350_man_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.6,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Network Cable Interface B. Wall Socket C. Display Screen D. Switch\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Switch"
+    },
+    {
+        "video": "Visual_Reference/02_0443_woman_19_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.4,
+        "proactive": false,
+        "questions": "What is this thing? A. Glasses cloth B. Mouse C. Computer monitor D. Keyboard\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Mouse"
+    },
+    {
+        "video": "Visual_Reference/02_0458_man_18_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.58,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Plastic eight-tube pan flute B. Watch C. A swan D. Ice cream toy\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A swan"
+    },
+    {
+        "video": "Visual_Reference/02_0418_woman_20_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.48,
+        "proactive": false,
+        "questions": "What is this thing? A. Plate B. Chair C. Mineral water bottle D. Table\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Plate"
+    },
+    {
+        "video": "Visual_Reference/02_0474_woman_20_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.48,
+        "proactive": false,
+        "questions": "What is this thing? A. Table B. Book C. Plastic box D. Keyboard\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Plastic box"
+    },
+    {
+        "video": "Visual_Reference/02_0475_woman_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.5,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Flashlight B. Clamp C. Sofa D. Glue gun\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Glue gun"
+    },
+    {
+        "video": "Visual_Reference/02_0473_woman_18_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.38,
+        "proactive": false,
+        "questions": "What is this? A. Scissors B. Pen C. Mouse D. Chair\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Pen"
+    },
+    {
+        "video": "Visual_Reference/02_0289_man_18_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.4,
+        "proactive": false,
+        "questions": "What is that? A. Spray bottle B. Remote control C. Paper D. Table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Remote control"
+    },
+    {
+        "video": "Visual_Reference/02_0413_man_20_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is this? A. Air conditioner outdoor unit B. Curtain C. Window D. Bicycle bell\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Bicycle bell"
+    },
+    {
+        "video": "Visual_Reference/02_0426_woman_19_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "Hey, what's that? A. Electric Wire B. Keyboard C. Mainframe D. Computer Screen\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Keyboard"
+    },
+    {
+        "video": "Visual_Reference/02_0430_woman_39_shandong_16.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.3,
+        "proactive": false,
+        "questions": "What is this? A. Plastic box B. Electric fan C. Silk banner D. Cardboard box\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Electric fan"
+    },
+    {
+        "video": "Visual_Reference/02_0279_man_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.52,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Huo Xiang Zheng Qi Shui B. Solid Glue C. Folder D. Camera\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Camera"
+    },
+    {
+        "video": "Visual_Reference/02_0428_man_18_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "Hey, what's that? A. Cardboard box B. Power cord C. Cabinet D. Green plants\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Green plants"
+    },
+    {
+        "video": "Visual_Reference/02_0284_man_19_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.44,
+        "proactive": false,
+        "questions": "Hey, what is that? A. A broom B. A dustpan C. A pipe D. A mop\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "A mop"
+    },
+    {
+        "video": "Visual_Reference/02_0424_woman_20_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.56,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Glass door B. House number C. Ornament D. Switch\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "House number"
+    },
+    {
+        "video": "Visual_Reference/02_0466_woman_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "What is that over there? A. Power strip B. A router C. Monitor D. Data cable\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A router"
+    },
+    {
+        "video": "Visual_Reference/02_0482_man_18_hebei_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What's that? A. Table B. Chair C. Easel D. Pen\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Pen"
+    },
+    {
+        "video": "Visual_Reference/02_0461_woman_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "What is that over there? A. Mop B. Folding chair C. Ladder D. Electric heater\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Electric heater"
+    },
+    {
+        "video": "Visual_Reference/02_0434_woman_18_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "What is that thing? A. A bicycle bag B. Car C. Billboard D. Tree\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A bicycle bag"
+    },
+    {
+        "video": "Visual_Reference/02_0457_man_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "What is that over there? A. Toy B. Tape C. Plastic bag D. Watch\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Toy"
+    },
+    {
+        "video": "Visual_Reference/02_0453_woman_19_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 2.3200000000000003,
+        "proactive": false,
+        "questions": "What is this? A. Eraser B. Table C. Cotton swab D. Earphones\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Eraser"
+    },
+    {
+        "video": "Visual_Reference/02_0423_woman_20_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.7,
+        "proactive": false,
+        "questions": "What is that over there? A. A table B. A stool C. A door lock D. Paper\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A stool"
+    },
+    {
+        "video": "Visual_Reference/02_0280_man_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is that? A. Plastic bag B. Safety helmet C. Car D. Electric scooter\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Plastic bag"
+    },
+    {
+        "video": "Visual_Reference/02_0448_woman_19_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.7,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Clip B. Bracelet C. Carton D. Shampoo\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Bracelet"
+    },
+    {
+        "video": "Visual_Reference/02_0281_man_18_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "What is this? A. Paper B. Screw C. Table D. Hook\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Screw"
+    },
+    {
+        "video": "Visual_Reference/02_0460_man_19_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.44,
+        "proactive": false,
+        "questions": "What is this thing? A. Hairband B. Watering can C. Mineral water bottle D. Tape\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Watering can"
+    },
+    {
+        "video": "Visual_Reference/02_0432_man_19_shandong_19.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.46,
+        "proactive": false,
+        "questions": "Hey, what is this? A. Door B. Dustpan C. Mop D. Broom\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Dustpan"
+    },
+    {
+        "video": "Visual_Reference/02_0348_woman_18_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.5,
+        "proactive": false,
+        "questions": "What is this? A. Clip B. Electric wire C. Adhesive hook D. Socket\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Adhesive hook"
+    },
+    {
+        "video": "Visual_Reference/02_0453_woman_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.56,
+        "proactive": false,
+        "questions": "What is that over there? A. Vertical air conditioner B. Mobile display screen C. Chair D. A table\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "A table"
+    },
+    {
+        "video": "Visual_Reference/02_0442_man_19_shandong_2.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.4,
+        "proactive": false,
+        "questions": "What is this thing? A. Tree B. Stone C. Window D. Fire hydrant indicator sign\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Fire hydrant indicator sign"
+    },
+    {
+        "video": "Visual_Reference/02_0275_man_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 3.0,
+        "proactive": false,
+        "questions": "What is that over there? A. Pipeline B. Key tray C. Radiator D. Valve\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Key tray"
+    },
+    {
+        "video": "Visual_Reference/02_0446_woman_19_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.66,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Power strip B. Scanner C. Thermal mug D. Table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Scanner"
+    },
+    {
+        "video": "Visual_Reference/02_0272_woman_18_shandong_2.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.44,
+        "proactive": false,
+        "questions": "What is this? A. Clothes B. Metal Railings C. Shoes D. Helmet\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Clothes"
+    },
+    {
+        "video": "Visual_Reference/02_0435_man_20_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.38,
+        "proactive": false,
+        "questions": "What is this? A. Black backpack B. Purple clay teapot C. Red tape D. Water cup\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Purple clay teapot"
+    },
+    {
+        "video": "Visual_Reference/02_0445_man_20_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.52,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Replacement capsule B. Tea tin C. Box D. Mouse\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Replacement capsule"
+    },
+    {
+        "video": "Visual_Reference/02_0422_man_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.52,
+        "proactive": false,
+        "questions": "What is that over there? A. Trash can B. Backpack C. Glasses D. Ornament\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Glasses"
+    },
+    {
+        "video": "Visual_Reference/02_0283_man_18_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.54,
+        "proactive": false,
+        "questions": "What is this? A. Disinfectant B. Spray Bottle C. Chalk D. Table\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Disinfectant"
+    },
+    {
+        "video": "Visual_Reference/02_0284_man_19_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.3199999999999998,
+        "proactive": false,
+        "questions": "What is this? A. Book B. Curtain C. Pipe D. Window\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Curtain"
+    },
+    {
+        "video": "Visual_Reference/02_0279_man_20_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.82,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Perfume B. USB adapter C. Folder D. Huoxiang Zhengqi Liquid\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "USB adapter"
+    },
+    {
+        "video": "Visual_Reference/02_0472_man_20_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Mouse B. Plastic C. Cup D. Plate\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Plastic"
+    },
+    {
+        "video": "Visual_Reference/02_0420_man_21_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.66,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Tree B. Window C. Warning sign D. Car\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Warning sign"
+    },
+    {
+        "video": "Visual_Reference/02_0476_woman_21_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.7,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Cabinet B. Paper C. Card D. Chair\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Card"
+    },
+    {
+        "video": "Visual_Reference/02_0413_man_20_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Bicycle basket B. Bicycle saddle C. Handlebar D. Bicycle bell\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Bicycle bell"
+    },
+    {
+        "video": "Visual_Reference/02_0288_man_19_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.6,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Table B. Book C. Putty knife D. Chair\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Putty knife"
+    },
+    {
+        "video": "Visual_Reference/02_0274_woman_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.84,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Bucket B. Window C. Helmet D. Broom\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Bucket"
+    },
+    {
+        "video": "Visual_Reference/02_0463_man_19_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.5,
+        "proactive": false,
+        "questions": "What is that thing? A. Seal B. Cosmetics C. Coffee D. Headphones\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Headphones"
+    },
+    {
+        "video": "Visual_Reference/02_0429_man_26_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.42,
+        "proactive": false,
+        "questions": "Hey, what's that? A. Hamster ceramic house B. White glasses case C. White vase D. Yellow paper box\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Hamster ceramic house"
+    },
+    {
+        "video": "Visual_Reference/02_0463_man_19_shandong_3.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.38,
+        "proactive": false,
+        "questions": "What is this? A. A door B. A seal C. Headphones D. A table\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A seal"
+    },
+    {
+        "video": "Visual_Reference/02_0452_woman_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.54,
+        "proactive": false,
+        "questions": "What's that over there? A. Printer B. Phone C. Car D. Window\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Printer"
+    },
+    {
+        "video": "Visual_Reference/02_0431_man_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is that? A. Guardrail B. A tree trunk C. Window D. Rockery\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A tree trunk"
+    },
+    {
+        "video": "Visual_Reference/02_0432_man_19_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.72,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Table B. Kettle C. Water bucket D. Plate\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Plate"
+    },
+    {
+        "video": "Visual_Reference/02_0464_woman_20_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.74,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Cabinet B. Shelf C. A mirror D. Clock\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A mirror"
+    },
+    {
+        "video": "Visual_Reference/02_0491_man_22_shandong_4.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.5,
+        "proactive": false,
+        "questions": "What is that thing? A. Tambourine B. Pottery jar C. A toy D. Vase\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A toy"
+    },
+    {
+        "video": "Visual_Reference/02_0484_man_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is that? A. A toy B. Electric heater C. Cardboard box D. Electric wire\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A toy"
+    },
+    {
+        "video": "Visual_Reference/02_0279_man_20_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.18,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Huoxiang Zhengqi Liquid B. Camera C. Perfume D. Hose\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Hose"
+    },
+    {
+        "video": "Visual_Reference/02_0350_man_18_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.34,
+        "proactive": false,
+        "questions": "What is that? A. Window B. Table C. Curtain D. Seal\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Seal"
+    },
+    {
+        "video": "Visual_Reference/02_0347_woman_18_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.56,
+        "proactive": false,
+        "questions": "What is that over there? A. Car B. Disposable paper cup C. Vase D. Window\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Vase"
+    },
+    {
+        "video": "Visual_Reference/02_0417_woman_20_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.48,
+        "proactive": false,
+        "questions": "What's that over there? A. Road cone B. Car C. Backpack D. Bicycle fender\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Bicycle fender"
+    },
+    {
+        "video": "Visual_Reference/02_0448_woman_19_shandong_10.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.44,
+        "proactive": false,
+        "questions": "What is this thing? A. Ladder B. Broom C. Folding Chair D. Switch\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Ladder"
+    },
+    {
+        "video": "Visual_Reference/02_0491_man_22_shandong_2.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.3199999999999998,
+        "proactive": false,
+        "questions": "What is this? A. A vase B. A pot C. A tambourine D. A bench\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "A pot"
+    },
+    {
+        "video": "Visual_Reference/02_0330_man_19_shandong_13.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.66,
+        "proactive": false,
+        "questions": "Excuse me, what is that? A. Bicycle saddle B. Electric vehicle C. Signboard D. Car\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Bicycle saddle"
+    },
+    {
+        "video": "Visual_Reference/02_0278_man_18_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.56,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Scouring pad B. Steel wool C. Faucet D. Sink\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Faucet"
+    },
+    {
+        "video": "Visual_Reference/02_0440_woman_19_shandong_8.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.62,
+        "proactive": false,
+        "questions": "What is that over there? A. Data cable B. Cardboard box C. A calculator D. Foam\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A calculator"
+    },
+    {
+        "video": "Visual_Reference/02_0456_woman_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.58,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Rockery B. Window C. Car D. Railing\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Rockery"
+    },
+    {
+        "video": "Visual_Reference/02_0478_woman_19_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is that? A. A square box B. A table C. A glass bottle D. A plastic bag\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "A glass bottle"
+    },
+    {
+        "video": "Visual_Reference/02_0418_woman_20_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.68,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Chair B. Mineral water bottle C. Table D. Mouse\n\nThe best option is:",
+        "ans": "D",
+        "ans_full": "Mouse"
+    },
+    {
+        "video": "Visual_Reference/02_0415_man_20_shandong_9.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.74,
+        "proactive": false,
+        "questions": "Do you know what this is? A. Mouse B. Keyboard C. Windshield washer fluid D. Table\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Windshield washer fluid"
+    },
+    {
+        "video": "Visual_Reference/02_0289_man_18_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.28,
+        "proactive": false,
+        "questions": "What is that? A. Cardboard box B. Putty knife C. Sprayer D. Mineral water bottle\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Cardboard box"
+    },
+    {
+        "video": "Visual_Reference/02_0473_woman_18_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.32,
+        "proactive": false,
+        "questions": "What is this? A. A bottle of mineral water B. Green power bank C. Pen D. Mobile phone\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A bottle of mineral water"
+    },
+    {
+        "video": "Visual_Reference/02_0463_man_19_shandong_5.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.54,
+        "proactive": false,
+        "questions": "What is this? A. Blackboard eraser B. Headphones C. Food D. Table\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Food"
+    },
+    {
+        "video": "Visual_Reference/02_0494_man_18_shandong_7.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.58,
+        "proactive": false,
+        "questions": "Can you tell me what this is? A. Host computer B. Keyboard C. Paper D. Computer monitor\n\nThe best option is:",
+        "ans": "B",
+        "ans_full": "Keyboard"
+    },
+    {
+        "video": "Visual_Reference/02_0290_woman_20_shandong_15.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.82,
+        "proactive": false,
+        "questions": "Can you explain what this is? A. Carton B. Plastic box C. Storage box D. Book\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Storage box"
+    },
+    {
+        "video": "Visual_Reference/02_0448_woman_19_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.46,
+        "proactive": false,
+        "questions": "Hey, what's that? A. A fan B. A mop C. A door D. A ladder\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "A fan"
+    },
+    {
+        "video": "Visual_Reference/02_0420_man_21_shandong_11.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.54,
+        "proactive": false,
+        "questions": "Hey, what is that? A. Bicycle license plate B. Billboard C. Automobile D. Road cones\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Bicycle license plate"
+    },
+    {
+        "video": "Visual_Reference/02_0491_man_22_shandong_1.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Tambourine B. Bear figurine C. Bench D. Pottery\n\nThe best option is:",
+        "ans": "A",
+        "ans_full": "Tambourine"
+    },
+    {
+        "video": "Visual_Reference/02_0485_woman_20_shandong_12.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 1.38,
+        "proactive": false,
+        "questions": "What is that A. Door B. Backpack C. Calibration plate D. Sofa chair\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Calibration plate"
+    },
+    {
+        "video": "Visual_Reference/02_0423_woman_20_shandong_6.mp4",
+        "task_type": "Visual Reference",
+        "video_start_time": 0.0,
+        "video_end_time": 0.36,
+        "proactive": false,
+        "questions": "What is this? A. Table B. Fire extinguisher C. Cart D. U-lock\n\nThe best option is:",
+        "ans": "C",
+        "ans_full": "Cart"
+    }
+]
