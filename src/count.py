@@ -182,7 +182,7 @@ def gpt_score(prompt):
     print(jsonfy_result)
     return jsonfy_result
 
-def in_time(response_time, ref_time, margin=3.0):
+def in_time(response_time, ref_time, margin=2.0):
     if isinstance(ref_time, (tuple, list)):
         start, end = ref_time[0], ref_time[1]
         ex_start = max(0.0, start)
